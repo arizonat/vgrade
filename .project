@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Vgrade</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>apps</name>
+			<type>2</type>
+			<location>/Users/Levi_Cai/Documents/VivianProject/sphinx4-1.0beta6-src/sphinx4-1.0beta6/src/apps</location>
+		</link>
+		<link>
+			<name>jsapi</name>
+			<type>2</type>
+			<location>/Users/Levi_Cai/Documents/VivianProject/sphinx4-1.0beta6-src/sphinx4-1.0beta6/src/jsapi</location>
+		</link>
+		<link>
+			<name>research</name>
+			<type>2</type>
+			<location>/Users/Levi_Cai/Documents/VivianProject/sphinx4-1.0beta6-src/sphinx4-1.0beta6/src/research</location>
+		</link>
+		<link>
+			<name>sphinx4</name>
+			<type>2</type>
+			<location>/Users/Levi_Cai/Documents/VivianProject/sphinx4-1.0beta6-src/sphinx4-1.0beta6/src/sphinx4</location>
+		</link>
+		<link>
+			<name>test</name>
+			<type>2</type>
+			<location>/Users/Levi_Cai/Documents/VivianProject/sphinx4-1.0beta6-src/sphinx4-1.0beta6/src/test</location>
+		</link>
+	</linkedResources>
+</projectDescription>
